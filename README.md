@@ -1,0 +1,1 @@
+Solving the least squares problem for hand digit recognition from MNIST dataset.
